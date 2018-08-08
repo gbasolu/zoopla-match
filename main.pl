@@ -110,6 +110,6 @@ print "Player 2 cards #: " . (0+@{$players_cards[1]}) . "\n";
 print "Unassigned cards: " . (0+@unassigned_cards) . "\n";
 
 print "And the winner " .
-      ( (0+@{$players_cards[0]}) == (0+@{$players_cards[1]}) ? "are Player 1 and Player 2 with he same points!" :
+      ( (0+@{$players_cards[0]}) == (0+@{$players_cards[1]}) ? "are Player 1 and Player 2 with the same points!" :
         ((0+@{$players_cards[0]}) > (0+@{$players_cards[1]}) ? "is Player 1!" : "is Player 2!")) .
       "\n";

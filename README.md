@@ -1,7 +1,7 @@
 # Zoopla Match! Test
 
 Please attempt the following at your own convenience but do not spend more
-than 11⁄2 hours on it. Once the 11⁄2 hours is over and you've completed the test
+than 1 1⁄2 hours on it. Once the 1 1⁄2 hours is over and you've completed the test
 and sent your result back, we'd love it if you could follow it up with some notes
 on how you thought the test went and anything you'd do differently, given more
 time.
